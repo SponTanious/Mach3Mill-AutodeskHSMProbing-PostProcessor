@@ -9,7 +9,7 @@ Unfortunately I was never able to get this to work and thus decided to create my
 
 I used the following sites and documents as refrence:
 https://cam.autodesk.com/posts/reference/index.html
-
+https://cam.autodesk.com/posts/posts/guides/Post%20Processor%20Training%20Guide.pdf
 
 ## Current Implementations
 - probing-z
