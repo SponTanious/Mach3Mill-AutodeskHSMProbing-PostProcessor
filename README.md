@@ -8,8 +8,8 @@ There are existing software that has been able to convert the probing operations
 Unfortunately I was never able to get this to work and thus decided to create my own Macro free version which uses the inbuilt probing function in Mach3Mill - G31. I believe this method will have its limits of which I will document.
 
 I used the following sites and documents as refrence:
-https://cam.autodesk.com/posts/reference/index.html
-https://cam.autodesk.com/posts/posts/guides/Post%20Processor%20Training%20Guide.pdf
+- https://cam.autodesk.com/posts/reference/index.html
+- https://cam.autodesk.com/posts/posts/guides/Post%20Processor%20Training%20Guide.pdf
 
 ## Current Implementations
 - probing-z
