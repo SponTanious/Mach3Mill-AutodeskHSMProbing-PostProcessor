@@ -11,13 +11,11 @@ I used the following sites and documents as refrence:
 - https://cam.autodesk.com/posts/reference/index.html
 - https://cam.autodesk.com/posts/posts/guides/Post%20Processor%20Training%20Guide.pdf
 
+## Current Implementations
 
 | Probe Type <img width=100/> | How It Works <img width=350/> | Program Limits <img width=200/> | Future Changes <img width=200/> |
 | --------------------------- | ------------------------------| ----------------------- | ------------------------------- |
 | probing-z | - Reset z offset <br> - Stop program <br> - Set feed rate <br> - Probe in -ve z direction <br> - Set new offset | At the moment it will only probe surfaces that should be at zero. <br> Will only probe in the -ve z direction | Will implement it so that it can probe any z plane surface and in both z directions|
-
-## Current Implementations
-- probing-z
 
 ## Future Implementations
 - probing-x
