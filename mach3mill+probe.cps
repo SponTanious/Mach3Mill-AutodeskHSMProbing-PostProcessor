@@ -1175,7 +1175,7 @@ function onCyclePoint(x, y, z) {
       writeBlock(gMotionModal.format(31),                   //Tell to probe
                 zOutput.format(0-cycle.probeOvertravel));
       writeBlock(gMotionModal.format(52),                   //Set offset
-                  "Z[#2002+0.2]");
+                  "Z[#2002]");
       break;
     case "probing-x-wall":
       break;
